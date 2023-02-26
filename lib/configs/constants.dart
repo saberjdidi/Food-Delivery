@@ -1,0 +1,1 @@
+String categoryUrlImage = "https://wallpaperaccess.com/full/1393537.jpg";
